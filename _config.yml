@@ -1,0 +1,6 @@
+# Site settings
+title: Bryan Teisl - Data Analyst
+description: A portfolio of my data analysis projects.
+
+# Use the 'minimal' theme
+theme: jekyll-theme-minimal
